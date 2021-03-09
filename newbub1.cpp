@@ -38,13 +38,3 @@ int main()
     printArray(arr, n);  
     return 0;  
 }  
-
-dfzg
-dfzgg
-dfg
-fg
-fd
-zgdf
-gfd
-g
-fd
