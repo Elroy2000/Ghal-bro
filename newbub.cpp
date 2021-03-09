@@ -19,7 +19,7 @@ void bubbleSort(int arr[], int n)
         if (arr[j] > arr[j+1])  
             swap(&arr[j], &arr[j+1]);  
 }  
-
+  
 /* Function to print an array */
 void printArray(int arr[], int size)  
 {  
@@ -28,6 +28,7 @@ void printArray(int arr[], int size)
         cout << arr[i] << " ";  
     cout << endl;  
 }  
+  
 // Driver code  
 int main()  
 {  
@@ -38,13 +39,3 @@ int main()
     printArray(arr, n);  
     return 0;  
 }  
-
-dfzg
-dfzgg
-dfg
-fg
-fd
-zgdf
-gfd
-g
-fd
